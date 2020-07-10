@@ -1,4 +1,4 @@
 # Dextra hand
 
 ## Cablage  
-<img src="cablage_encodeur.png" width="340">  
+<img src="img/cablage_encodeur.png" width="340">  
